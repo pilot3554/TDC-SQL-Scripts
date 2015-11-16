@@ -6,3 +6,4 @@ GO
 drop view [dbo].[viewTheatreSearch]  
 GO  
 
+Go
